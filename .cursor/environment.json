@@ -1,0 +1,4 @@
+{
+  "name": "Test Case Generation Agent",
+  "install": "pip install -e \".[dev]\""
+}
